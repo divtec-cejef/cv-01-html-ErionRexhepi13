@@ -1,17 +1,29 @@
 body {
     background-color: antiquewhite;
+    background-image: url("img/coverFandFfond.png");
+    background-repeat: no-repeat;
+
 }
 
 h1 {
     color : midnightblue;
+    text-shadow: 2px 2px 4px;
 }
 
 h2{
     font-weight : bold;
     font-style: italic;
+    text-align: center;
 }
 
 p {
     background-color: blanchedalmond;
     color : brown;
+}
+
+ul {
+    border-top: 2px dashed;
+    border-bottom: 2px dashed;
+    border-left: 1px solid;
+    border-right: 1px solid;
 }
